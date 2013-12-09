@@ -1,0 +1,12 @@
+interface for each class
+
+use polymorphism
+
+
+Show window with "start game" button
+
+When button is pressed, make the button disappear and have two cards show up
+
+show "play" button in middle panel
+
+show how many cards each player has
